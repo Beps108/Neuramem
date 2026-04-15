@@ -1,0 +1,23 @@
+{
+  "name": "@neuromem/sdk",
+  "version": "0.1.0",
+  "description": "TypeScript SDK for NeuraMem API",
+  "main": "dist/neuromem.js",
+  "types": "dist/neuromem.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "neuromem",
+    "memory",
+    "ai",
+    "sdk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
